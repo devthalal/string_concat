@@ -1,0 +1,13 @@
+{
+  "name": "string_concat",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/devthalal/string_concat",
+    "ssh": "git@github.com:devthalal/string_concat.git"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "",
+  "postPull": "npm i",
+  "standAloneBlock": false
+}
